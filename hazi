@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Művészeti vetélkedő</h1>
+<p>december</p>
+<hr>
+
+<h2>Kandó hét</h2>
+<p>februárban</p>
+<hr>
+<h2>csanyiki sportnap</h2>
+<p>júniusban</p>
+<hr>
+
+<p>Majka mindenki táncol</p>
+<pre>
+régebben más volt
+a 90-es években mindenki táncolt
+és milyn tánc volt 
+</pre>
+
+
+</body>
+</html>
